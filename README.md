@@ -1,5 +1,11 @@
 # 📊 Superstore Business Insights Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed%20✅-brightgreen?style=for-the-badge)
+
 > **Interactive Power BI Dashboard** — Analysis of Sales, Profit, Customers & Regional Performance  
 > 🏫 *Red & White Skill Education | Power BI · Practical Report 1 (PR 1)*
 
@@ -81,7 +87,8 @@ Cross-filtering is enabled across all visual pairs so that selecting any slicer 
 
 ### Full Dashboard
 
-![Superstore Business Insights Dashboard](D:\Power%20BI\pr1\Screenshots\Dashboard.png)
+<img width="1284" height="740" alt="Dashboard" src="https://github.com/user-attachments/assets/0c03169b-df09-4e09-b20e-51ad3d3823cc" />
+
 
 > *Full interactive dashboard view with all KPI cards, category charts, customer rankings, and monthly trend line.*
 
@@ -113,30 +120,6 @@ Cross-filtering is enabled across all visual pairs so that selecting any slicer 
 
 ---
 
-## ✅ Submission Checklist
-
-- [x] `.pbix` file — all 13 tasks completed
-- [x] Power Query: 9 transformation steps applied
-- [x] 4 KPI Cards + Bar Charts + Donut Chart + Line Chart (all formatted)
-- [x] 3 Slicers — Region, Category, Ship Mode (Tile style)
-- [x] Filter panel configured (Page-level & Visual-level)
-- [x] Cross-filtering enabled across 3+ visual pairs
-- [x] Professional dark theme applied consistently
-- [x] Dashboard layout aligned with consistent spacing
-- [x] GitHub repository: public with all project files
-- [x] README.md: complete with screenshots and documentation
-- [x] 3+ meaningful commits with descriptive messages
-
----
-
-## 👨‍💻 Author
-
-**RENSEE GAJIPARA**  
-🏫 Red & White Skill Education  
-📘 Power BI — Practical Report 1 (PR 1)  
-
----
-
 ## 📝 Notes & Insights
 
 - **Technology dominates profitability** — contributing over 50% of total profit despite near-equal sales across all three categories.
@@ -148,3 +131,24 @@ Cross-filtering is enabled across all visual pairs so that selecting any slicer 
 ---
 
 > *"Shaping Skills for Scaling Higher" — Red & White Skill Education*
+
+---
+
+![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Sales-blue?style=flat-square&logo=databricks&logoColor=white)
+![Visuals](https://img.shields.io/badge/Visuals-5%20Chart%20Types-purple?style=flat-square&logo=chartdotjs&logoColor=white)
+![Rows](https://img.shields.io/badge/Data%20Rows-9%2C994-orange?style=flat-square&logo=files&logoColor=white)
+![License](https://img.shields.io/badge/License-Educational%20Use-lightgrey?style=flat-square)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=github)
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+![Author](https://img.shields.io/badge/👨‍💻%20Author-RENSEE%20GAJIPARA-white?style=for-the-badge&labelColor=6C3483&color=A569BD)
+![Institute](https://img.shields.io/badge/🏫%20Institute-Red%20%26%20White%20Skill%20Education-white?style=for-the-badge&labelColor=1A5276&color=2E86C1)
+![Project](https://img.shields.io/badge/📘%20Project-Power%20BI%20·%20PR%201-white?style=for-the-badge&labelColor=117A65&color=1ABC9C)
+
+</div>
